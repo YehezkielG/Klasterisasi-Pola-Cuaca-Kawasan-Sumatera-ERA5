@@ -36,8 +36,10 @@ Algoritma berhasil mendelineasi wilayah Sumatera menjadi 4 zona iklim mikro yang
 ## 📁 Repository Structure
 ```text
 ├── data/               # Link download/sampel dataset 
-├── Docs                # Gambar Dokumentasi
-├── requirements.txt    # Library dependencies, Notebook
+├── Docs/               # Gambar Dokumentasi
+├── LICENCE             
+├── notebook.ipynb      # Tahap Preprocessing, Visualisasi hingga Evaluasi
+├── requirements.txt    # Library dependencies
 └── README.md
 ```
 
@@ -50,3 +52,5 @@ Artikel dapat Penelitian dapat diakses melalui:
 * Yehezkiel Haganta Tarigan - Lead Researcher & Developer 
 * Sofia Zahra - Corresponding Author & Co-Researcher 
 * Christian Nicholas Sinaga - Co-Researcher
+
+#### The source code in this repository is open-source and licensed under the MIT License.
