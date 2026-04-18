@@ -36,9 +36,10 @@ Algoritma berhasil mendelineasi wilayah Sumatera menjadi 4 zona iklim mikro yang
 ## 📁 Repository Structure
 ```text
 ├── data/               # Link download/sampel dataset 
-├── Docs                # Gambar Dokumentasi
-├── LICENCE             # Library dependencies, Notebook
-├── requirements.txt    
+├── Docs/               # Gambar Dokumentasi
+├── LICENCE             
+├── notebook.ipynb      # Tahap Preprocessing, Visualisasi hingga Evaluasi
+├── requirements.txt    # Library dependencies
 └── README.md
 ```
 
